@@ -1,9 +1,10 @@
-﻿using Objectville;
+﻿using Encapsulation;
+using Objectville;
 
 class Program
 {
     static void Main(string[] args) 
     {
-        Launcher launcher = new Launcher();
+        EncapsulationLauncher launcher = new EncapsulationLauncher();
     }
 }
